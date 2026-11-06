@@ -6,6 +6,8 @@ Este repositorio es tu entorno de trabajo durante los 5 módulos. No crearás re
 
 > 🏦 **Contexto narrativo:** este template es el **sistema nuevo Greenfield** que vas a construir para **LegacyPay** (la empresa ficticia del caso de estudio del curso). Coexiste con el monolito legado de LegacyPay y demuestra el patrón Agent Manager. Los merchants en `data/merchants_sample.json` y las herramientas en `agent/tools/` (como `merchant_lookup.py`) salen del universo LegacyPay. 
 
+[![CI](https://github.com/instituto-cird/ia-dev-santtimontti/actions/workflows/ci.yml/badge.svg)](https://github.com/instituto-cird/ia-dev-santtimontti/actions/workflows/ci.yml)
+
 ---
 
 ## Stack
